@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VivekKumar-8287
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on the project of challenging Web Development
+- 👀 I’m interested in latest tech and technology that changing life and put a impact on us.
+- 🌱 I’m currently learning new technologies, explore the development world.
+- 💞️ I’m perfecting my craft by learning from more experienced senior, remaining humble and continuously making stories to learn all that I can about development
 
 
 <!---
