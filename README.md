@@ -85,7 +85,7 @@ Passionate about **clean code**, **performance**, **developer experience**, and 
 
   <!-- Additional tools in text form for better readability -->
   <p>
-    <strong>State & Query:</strong> TanStack Query • Recoil • Zod <br/>
+    <strong>State & Query:</strong> TanStack Query • Redux • Recoil • Zod <br/>
     <strong>Backend & Auth:</strong> Hono • NextAuth • JWT • Redis (basic) <br/>
     <strong>DevOps & Infra:</strong> Vercel • Cloudflare • GitHub Actions • Turborepo • Monorepo <br/>
     <strong>Tools:</strong> Git • Postman • VS Code • Linux basics
